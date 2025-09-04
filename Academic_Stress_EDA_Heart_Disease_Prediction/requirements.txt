@@ -1,0 +1,44 @@
+# Core Data Science Libraries
+numpy==1.24.3
+pandas==2.0.3
+
+# Data Visualization
+matplotlib==3.7.2
+seaborn==0.12.2
+plotly==5.15.0
+
+# Machine Learning
+scikit-learn==1.3.0
+
+# Statistical Analysis
+scipy==1.11.1
+
+# Jupyter Environment
+jupyter==1.0.0
+notebook==6.5.4
+ipython==8.14.0
+ipykernel==6.25.0
+
+# Data Processing Utilities
+openpyxl==3.1.2
+xlrd==2.0.1
+
+# Optional: For advanced visualizations
+plotly-express==0.4.1
+
+# Optional: For model persistence
+joblib==1.3.2
+pickle-mixin==1.0.2
+
+# Development and Code Quality
+autopep8==2.0.2
+flake8==6.0.0
+
+# Optional: For enhanced notebook experience
+tqdm==4.65.0
+ipywidgets==8.0.7
+
+# System and Environment
+python-dateutil==2.8.2
+pytz==2023.3
+six==1.16.0
